@@ -7,6 +7,8 @@ Randomly creates a Cave with:
 - Nest (white)
     - checks for walls
 
+![Screenshot](screen.png)
+
 ## HowTo
 Start:
 
@@ -25,5 +27,3 @@ Generate Map:
 ### Configure
 Settings in `config.ini`
 
-## Screenshot
-![Screenshot](screen.png)
